@@ -1,12 +1,16 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-subtitle: ""
-tags: []
-comments: true
-bigimg:
+jobtitle: ""
+date: {{ .Date }}
+
+avatar: ""
+education:
+  courses:
   - []
-start_date: ""
-status: activo
-coordinators:
+interests:
   - []
+orcid: ""
+twitter: ""
+website: ""
+draft: true
 ---
