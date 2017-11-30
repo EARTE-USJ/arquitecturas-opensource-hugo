@@ -9,6 +9,11 @@ prose:
       user: "Ana Ruiz Varona"
   metadata:
     content/project:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          placeholder: "El título del proyecto"
       - name: "date"
         field:
           element: "text"
