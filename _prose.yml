@@ -14,10 +14,6 @@ prose:
           element: "text"
           label: "Date"
           placeholder: "Fecha en formato aaaa-mm-dd (año-mes-día)"
-      - mame: "title"
-        field:
-          element: "text"
-          label: "Título"
       - mame: "summary"
         field:
           element: "text"
