@@ -18,6 +18,42 @@ prose:
         field:
           element: "text"
           label: "Título"
+      - mame: "summary"
+        field:
+          element: "text"
+          label: "Summary"
+          placeholder: "Texto resumen que aparecerá en la home."
+      - name: "header"
+        field:
+          element: "text"
+          label: "Imagen destacada"
+          help: "Copia la imagen a `/static/img/projects/` y escribe la ruta de la imagen, relativa a la carpeta /static/img"
+      - name: "image_preview"
+        field:
+          element: "text"
+          label: "Imagen de portada (aparecerá en la home si se trata de una publicación destacada)"
+          help: "Copia la imagen a `/static/img/publications/` y escribe la ruta de la imagen, relativa a la carpeta /static/img"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: true
+          options:
+            - name: "En curso"
+              value: "en-curso"
+            - name: "Finalizado"
+              value: "finalizado"
+        - name: "external_link"
+          field:
+            element: "text"
+            label: "External URL"
+            placeholder: "Si el proyecto tiene una web propia, copiala aquí."
+        - name: "math"
+          field:
+            element: "checkbox"
+            label: "LaTeX"
+            help: "Does the project detail page use math formatting?"
+            value: false
     content/publication:
       - name: "title"
         field:
