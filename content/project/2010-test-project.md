@@ -1,6 +1,6 @@
 ---
 math: true
-published: false
+published: true
 date: '2006-12-30'
 undefined: Texto resumen
 image_preview: >-
@@ -8,6 +8,7 @@ image_preview: >-
 tags:
   - en-curso
 external_link: 'http://usj.es'
+title: Test project
 ---
 ## A New Post
 
