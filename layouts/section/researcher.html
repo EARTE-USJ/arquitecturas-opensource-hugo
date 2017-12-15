@@ -1,0 +1,46 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "header_image.html" . }}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h1>{{ .Title | default (i18n "researchers") }}</h1>
+
+      {{ with .Content }}
+        {{ . }}
+      {{ end }}
+
+      <h3>Miembros actuales</h3>
+
+      <div class="row isotope projects-container js-layout-masonry">
+
+        {{ range where .Site.Pages "Params.group_membership" "actual" }}
+
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item">
+            <div class="card" itemscope itemtype="http://schema.org/Person">
+              <p><a href="{{ .Permalink }}" itemprop="name">{{ .Title }}</a></br>
+              {{ .Params.jobtitle }}</p>
+            </div>
+          </div>
+        {{ end }}
+
+      </div>
+
+      <h3>Miembros anteriores</h3>
+
+      <div id="container-researchers">
+
+        {{ range where .Site.Pages "Params.group_membership" "anterior" }}
+          <i class="fa fa-user" aria-hidden="true"></i>
+          {{ .Title }} <i>({{ .Params.jobtitle }})</i>
+
+        {{ end }}
+
+      </div>
+
+  </div>
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
