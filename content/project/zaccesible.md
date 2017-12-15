@@ -17,6 +17,7 @@ image_preview: projects/zaccesible/zaccesible-cartel-aps.png
 tags:
   - accesibilidad
   - OpenStreetMap
+  - activo
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://zaccesible.usj.es"

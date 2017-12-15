@@ -27,9 +27,9 @@ filter_default: 0
 filter:
   - name: All
     tag: '*'
-  - name: Vulnerabilidad
-    tag: .vulnerabilidad
-  - name: Accesibilidad
-    tag: .accesibilidad
+  - name: Activos
+    tag: .activo
+  - name: Finalizados
+    tag: .finalizado
 
 ---
