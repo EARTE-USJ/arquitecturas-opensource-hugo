@@ -3,7 +3,7 @@ title: "Lourdes Diego Barrado"
 jobtitle: "Dra. en Historia"
 date: 2017-11-30T23:41:54+01:00
 
-avatar: "img/researchers/lourdes-diego.jpg"
+avatar: "researchers/lourdes-diego.jpg"
 education:
   courses:
   - ""

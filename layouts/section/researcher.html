@@ -3,7 +3,7 @@
 
 {{ partial "header_image.html" . }}
 
-<div class="container">
+<section id="researchers" class="container">
   <div class="row">
     <div class="col-md-12">
       <h1>{{ .Title | default (i18n "researchers") }}</h1>
@@ -18,8 +18,14 @@
 
         {{ range where .Site.Pages "Params.group_membership" "actual" }}
 
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item">
-            <div class="card" itemscope itemtype="http://schema.org/Person">
+          <div class="col-xs-12 col-md-4 project-item isotope-item">
+            <div class="researcher-card" itemscope itemtype="http://schema.org/Person">
+
+              <a href="" title="" class="portrait"
+                 {{ $.Scratch.Get "target" | safeHTMLAttr }}>
+                <img id= "round-image" src="{{ "/img/" | relURL }}{{ .Params.avatar }}" alt="" class="img-responsive">
+              </a>
+
               <p><a href="{{ .Permalink }}" itemprop="name">{{ .Title }}</a></br>
               {{ .Params.jobtitle }}</p>
             </div>
@@ -41,6 +47,6 @@
       </div>
 
   </div>
-</div>
+</section>
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}

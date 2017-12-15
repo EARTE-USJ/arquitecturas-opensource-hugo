@@ -3,7 +3,7 @@ title: "Carlos Cámara Menoyo"
 jobtitle: "Arquitecto"
 date: 2017-11-30T23:41:54+01:00
 
-avatar: "https://i1.rgstatic.net/ii/profile.image/280040555204615-1443778279852_Q128/Carlos_Camara_Menoyo.jpg"
+avatar: "researchers/carlos-camara.jpg"
 education:
   courses:
   - Máster Universitario en Sociedad de la Información y el Conocimiento. Universitat Oberta de Catalunya (2012)

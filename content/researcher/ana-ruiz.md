@@ -3,7 +3,7 @@ title: "Ana Ruiz Varona"
 jobtitle: "Dra. Arquitecta. Urbanista"
 date: 2017-11-30T23:41:54+01:00
 
-avatar: "img/researchers/ana-ruiz.jpeg"
+avatar: "researchers/ana-ruiz.jpeg"
 education:
   courses:
   - Arquitectura. UNAV. Universidad de Navarra.
