@@ -240,6 +240,11 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Equipo"
+  url = "/researcher"
+  weight = 2
+
+[[menu.main]]
   name = "Publicaciones"
   url = "#publications_selected"
   weight = 2
