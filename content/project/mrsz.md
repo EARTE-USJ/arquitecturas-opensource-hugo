@@ -2,7 +2,7 @@
 date: 2015-04-27
 
 title: Mapa de Riesgo Social de Zaragoza
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+summary: Diseño de metodología de análisis social del espacio público que complemente el diseño de los actuales indicadores de vulnerabilidad urbana aplicables a procesos de regeneración urbana.
 
 # Optional featured image (relative to `static/img/` folder).
 header:
@@ -15,6 +15,8 @@ image_preview: projects/mrsz/MRSZ-unidades-de-barrio-de-zaragoza-y-desglose-en-u
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags:
 - vulnerabilidad
+- finalizado
+
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
@@ -23,15 +25,5 @@ tags:
 math: false
 ---
 
-Desde finales de 2013 el grupo de investigación Arquitecturas Open Source
-de la ETSA-USJ ha iniciado una colaboración con el Colegio Profesional de
-Trabajadores Sociales de Aragón para la realización conjunta de un mapa
-de riesgo social de Zaragoza. Dicho proyecto, financiado desde el Ministerio de
-Economía y Competitividad, pretende desarrollar el concepto de mapa de riesgo
-anunciado en la Ley de de 2009 de Ordenación del Territorio de Aragón mediante el diseño de una metodología mixta que ofrezca un procedimiento
-alternativo para la evaluación de las zonas y barrios de Zaragoza más sensibles
-a la pérdida de relaciones sociocomunitarias de vecindad y de interrelación
-con el resto de la ciudad. El objetivo es lograr una metodología que incorpore
-el ámbito de lo social como plataforma desde la que poder evaluar los riesgos
-inducidos en el territorio urbanizado y que esta pueda ser replicable en otras
-ciudades a propósito del estudio.
+Proyecto financiado por el Ministerio de Economía y Competitividad del Gobierno de España y desarrollado entre 2014 y 2017 por el grupo de investigación AOS en colaboración con el [Colegio Profesional de Trabajadores Sociales de Aragón](http://www.trabajosocialaragon.es/). El objetivo es el diseño de una metodología de análisis social del espacio público que complemente el diseño de los actuales indicadores de vulnerabilidad urbana aplicables a procesos de regeneración urbana.
+A propósito de la ciudad de Zaragoza, se diseñó y la aplicación de una metodología de análisis y diagnóstico del riesgo de exclusión social como indicador que permita evaluar las áreas urbanas más sensibles a la disminución de relaciones socio-comunitarias de vecindad y de interrelación con el resto de la ciudad en contextos de rápida pérdida de capacidad económica y de aparición o incremento sostenido del declive urbano.
