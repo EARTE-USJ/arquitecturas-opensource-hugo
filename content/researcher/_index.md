@@ -6,7 +6,7 @@ math: false
 
 # Optional featured image (relative to `static/img/` folder).
 header:
-  caption: "Miembros del equipo"
-  image: "headers/bubbles-wide.jpg"
+  caption: "Campus Villanueva de Gállego"
+  image: "headers/campus.jpg"
 ---
 Listado de los miembros del grupo actuales y anteriores:
