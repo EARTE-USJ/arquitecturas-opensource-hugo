@@ -1,10 +1,8 @@
 ---
 date: '2017-04-01'
+title: "Áreas de rehabilitación en la ciudad de Zaragoza: Noción, encaje urbanístico y criterios de selección"
 selected: false
 published: true
-title: >-
-  Áreas de rehabilitación en la ciudad de Zaragoza: Noción, encaje urbanístico y
-  criterios de selección Ana Ruíz, Pilar Alfaro
 authors:
   - Ana Ruiz Varona
   - Pilar Alfaro
