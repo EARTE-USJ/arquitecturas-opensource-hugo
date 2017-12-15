@@ -37,12 +37,33 @@
       <h3>Miembros anteriores</h3>
 
       <div id="container-researchers">
+        <ul>
+        {{ range where (where .Site.Pages "Params.group_membership" "anterior" ) "Params.group_role" "=" "efectivo" }}
 
-        {{ range where .Site.Pages "Params.group_membership" "anterior" }}
-          <i class="fa fa-user" aria-hidden="true"></i>
-          {{ .Title }} <i>({{ .Params.jobtitle }})</i>
-
+            <li><i class="fa fa-user" aria-hidden="true"></i>
+            {{ .Title }} <i>({{ .Params.jobtitle }})</i>
+            </li>
         {{ end }}
+        </ul>
+        <h4>Colaboradores</h4>
+        <ul>
+          {{ range where (where .Site.Pages "Params.group_membership" "anterior" ) "Params.group_role" "=" "colaborador" }}
+
+              <li><i class="fa fa-user" aria-hidden="true"></i>
+              {{ .Title }} <i>({{ .Params.jobtitle }})</i>
+              </li>
+          {{ end }}
+        </ul>
+
+        <h4>Becarios</h4>
+        <ul>
+          {{ range where (where .Site.Pages "Params.group_membership" "anterior" ) "Params.group_role" "=" "becario" }}
+
+              <li><i class="fa fa-user" aria-hidden="true"></i>
+              {{ .Title }} <i>({{ .Params.jobtitle }})</i>
+              </li>
+          {{ end }}
+        </ul>
 
       </div>
 
