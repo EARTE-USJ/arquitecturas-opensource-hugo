@@ -3,7 +3,7 @@ title: "Juan Carlos García-Perrote Escartín"
 jobtitle: "Dr. en Arquitectura"
 date: 2017-11-30T23:41:54+01:00
 
-avatar: "researchers/generic-avatar.png"
+avatar: "researchers/juan_carlos_garcia_perrote.jpg"
 education:
   courses:
   - ""
