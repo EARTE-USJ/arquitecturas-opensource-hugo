@@ -3,7 +3,7 @@ title: "Fco. Javier Álvarez Atarés"
 jobtitle: "Arquitecto"
 date: 2017-11-30T23:41:54+01:00
 
-avatar: "researchers/generic-avatar.png"
+avatar: "researchers/javier_alvarez.jpg"
 education:
   courses:
   - ""

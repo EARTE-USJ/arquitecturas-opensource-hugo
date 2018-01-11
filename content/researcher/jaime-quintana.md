@@ -3,7 +3,7 @@ title: "Jaime Quintana Elena"
 jobtitle: "Arquitecto y Máster en Investigación y Formación Avanzada en Arquitectura"
 date: 2017-11-30T23:41:54+01:00
 
-avatar: "researchers/generic-avatar.png"
+avatar: "researchers/jaime_quintana.jpg"
 education:
   courses:
   - ""
