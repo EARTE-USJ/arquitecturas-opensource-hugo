@@ -3,7 +3,7 @@ title: "Jonas Holst Sørensen"
 jobtitle: "Dr. en Historia de las Ideas y Filosofía"
 date: 2017-11-30T23:41:54+01:00
 
-avatar: "researchers/generic-avatar.png"
+avatar: "researchers/Jonas_Holst2.jpg"
 education:
   courses:
   - ""

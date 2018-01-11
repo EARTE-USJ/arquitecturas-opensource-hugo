@@ -20,8 +20,10 @@ group_role: efectivo
 weight: 5
 ---
 
-Delectus sed autem modi sit dignissimos maxime cum officia. Vel qui et sed. Accusamus harum omnis necessitatibus dolor dolor eos. In dolore aperiam iure voluptas. Dolore inventore ea enim sapiente quod minus. Sint beatae odit iusto.
+Profesor de asignaturas Integración I y Proyectos IV
 
-Voluptates quo repellat saepe debitis magni laudantium. Dignissimos optio suscipit facilis voluptates aliquid non. Cum esse quis possimus quia est voluptas.
+Arquitecto, Arquitecto Técnico, Grado en Ingeniería de la Edificación, Master en Investigación y Formación Avanzada en Arquitectura y Doctorando en Arquitectura
 
-Rerum totam magnam ea. Quis id quibusdam non atque commodi voluptatem quidem et. Cupiditate nobis quia magnam quasi ut. Et quae eos et inventore saepe. Ut et amet laudantium ad sit.
+Su línea de investigación está centrada en Arquitectura, Discapacidad Intelectual, Cognición Arquitectónica y Accesibilidad Universal
+
+Realiza trabajos de investigación y es autor de artículos, publicaciones y ponencias en congresos sobre aspectos relacionados con la arquitectura, la discapacidad intelectual y la accesibilidad universal, campos en el que cuenta con una amplia experiencia profesional. Actualmente realiza su tesis doctoral en la Universidad Politécnica de Madrid (ETSAM)  sobre la percepción en arquitectura desde la discapacidad intelectual.

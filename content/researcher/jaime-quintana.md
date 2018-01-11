@@ -12,6 +12,7 @@ interests:
 orcid: ""
 twitter: ""
 website: ""
+email: "jquintana@usj.es"
 draft: false
 affilition:
   - Universidad San Jorge
@@ -20,8 +21,17 @@ group_role: efectivo
 weight: 5
 ---
 
-Delectus sed autem modi sit dignissimos maxime cum officia. Vel qui et sed. Accusamus harum omnis necessitatibus dolor dolor eos. In dolore aperiam iure voluptas. Dolore inventore ea enim sapiente quod minus. Sint beatae odit iusto.
+Profesor de Cultura y teoría en arquitectura II, IV y V.
 
-Voluptates quo repellat saepe debitis magni laudantium. Dignissimos optio suscipit facilis voluptates aliquid non. Cum esse quis possimus quia est voluptas.
+Profesor del Architectural Composition Lab (ACLab).
 
-Rerum totam magnam ea. Quis id quibusdam non atque commodi voluptatem quidem et. Cupiditate nobis quia magnam quasi ut. Et quae eos et inventore saepe. Ut et amet laudantium ad sit.
+Su línea de investigación está centrada en la creatividad, la noción de melancolía como condición necesaria del genio creador, la deriva de la teoría humoral al campo de la arquitectura, el concepto de "felt-meaning" proyectado a la percepción espacial y, finalmente, la razón poética de la arquitectura.
+
+Ha publicado numerosos artículos sobre melancolía y arquitectura en obras especializadas y en revistas científicas.
+
+Licenciado como arquitecto en 2007 por la ETSEIA de la Universidad I.E./S.E.K. (Segovia) con una calificación en el Proyecto Fin de Carrera de 9.0 (sobresaliente), y Máster Universitario en Investigación y Formación Avanzada en Arquitectura en 2014 por la ETSA en la Universidad San Jorge con una calificación en el Trabajo Fin de Máster de 10 (sobresaliente).
+
+Arquitecto colegiado desde 2008, Colaboró en el estudio [Sicilia y Asociados S.L.](http://www.siciliayasociados.com) desde 2008 hasta 2012 y arquitecto asociado desde 2012 hasta la fecha.
+
+
+

@@ -14,7 +14,7 @@ twitter: ""
 website: ""
 draft: false
 affilition:
-  - Universidad San Jorge
+  - Universitat Politècnica de València
 group_membership: actual
 group_role: efectivo
 weight: 5
