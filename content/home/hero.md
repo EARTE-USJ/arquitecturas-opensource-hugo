@@ -20,8 +20,8 @@ header:
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 cta:
-  url: "./post/getting-started/"
-  label: '<i class="fa fa-tasks"></i> Ver proyectos'
+  url: "about"
+  label: '<i class="fa fa-tasks"></i> Conocer más'
 ---
 
 Poner aquí una descripción del grupo, objetivos...

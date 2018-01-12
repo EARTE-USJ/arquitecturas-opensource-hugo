@@ -21,6 +21,9 @@ googleAnalytics = ""
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 
+[permalinks]
+  page = "/:title/"
+
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
