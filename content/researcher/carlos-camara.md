@@ -1,6 +1,6 @@
 ---
 title: "Carlos Cámara Menoyo"
-jobtitle: "Arquitecto y Dr. en Sociedad de la Información y el Conocimiento"
+jobtitle: "Dr. en Sociedad de la Información y el Conocimiento y Arquitecto"
 date: 2017-11-30T23:41:54+01:00
 
 avatar: "researchers/carlos-camara.jpg"
