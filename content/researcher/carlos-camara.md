@@ -1,12 +1,12 @@
 ---
 title: "Carlos Cámara Menoyo"
-jobtitle: "Arquitecto"
+jobtitle: "Arquitecto y Doctor en Sociedad de la Información y el Conocimiento"
 date: 2017-11-30T23:41:54+01:00
 
 avatar: "researchers/carlos-camara.jpg"
 education:
   courses:
-  - Máster Universitario en Sociedad de la Información y el Conocimiento. Universitat Oberta de Catalunya (2012)
+  - Doctor en Sociedad de la Información y el Conocimiento. Universitat Oberta de Catalunya (2018)
   - Arquitectura. ETSAV, Universitat Politècnica de Catalunya (2004)
 interests:
   - []
@@ -23,7 +23,7 @@ group_role: efectivo
 weight: 5
 ---
 
-Arquitecto por la [ETSA Vallés](https://etsav.upc.edu) de la [Universitat Politècnica de Catalunya](http://upc.edu). Máster en Sociedad de la Información y el Conocimiento por la [Universitat Oberta de Catalunya](http://uoc.edu) y Máster en Informatización de Proyectos Arquitectónicos. Doctorando en el [Internet Interdisciplinary Institute (IN3)](http://www.uoc.edu/portal/en/in3/index.html) de la Universitat Oberta de Catalunya realizando una investigación sobre comunes urbanos en Barcelona (fecha prevista de defensa: 2018).
+Arquitecto por la [ETSA Vallés](https://etsav.upc.edu) de la [Universitat Politècnica de Catalunya](http://upc.edu). Doctor en Sociedad de la Información y el Conocimiento por la [Universitat Oberta de Catalunya](http://uoc.edu) y Máster en Informatización de Proyectos Arquitectónicos. 
 
 Personal Docente Investigador en la Escuela de Arquitectura y Tecnología de la Universidad San Jorge desde 2009, donde es profesor titular de la asignatura "Digital Tools", profesor de las asignaturas "Aula Abierta" y "Ciudad, Paisaje y Territorio" e investigador del grupo de investigación “Arquitecturas Open Source”, donde forma parte del proyecto del proyecto de investigación "Mapa de Riesgo Social" financiado por el Ministerio de Economía y Competitividad (2014-2017) realizado desde la EARTE-USJ en colaboración con el Colegio de Trabajadores Sociales de Aragón con el objetivo de generar metodologías de análisis y valoración alternativas y complementarias a las empleadas habitualmente por los distintos Informes de Vulnerabilidad Urbana. Desde el curso 2015-16 dirige la Cátedra Bantierra-Fundación Adecco para la investigación sobre movilidad y autonomía de personas con discapacidad en el espacio urbano. Revisor de las revistas “URBS: revista de estudios urbanos y ciencias sociales”, editada por la Universidad de Almería desde 2012 y “Revista de arquitectura” de la Universidad Católica de Colombia desde 2014.
 
