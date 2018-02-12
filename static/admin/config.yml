@@ -1,20 +1,17 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  #branch: master # Branch to update (optional; defaults to master)
 
 # Editorial Workflow.
 
 # By default, saving a post in the CMS interface will push a commit directly to the publication branch specified in backend. However, you also have the option to enable the Editorial Workflow, which adds an interface for drafting, reviewing, and approving posts. To do this, add the following line to your config.yml:
-
 publish_mode: editorial_workflow
 
 # Media folders.
-
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/img/uploads
 public_folder: "/imags/uploads" # The src attribute for uploaded media will begin with /img/uploads
 
 collections:
-
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
     folder: "content/post" # The path to the folder where the documents are stored
@@ -61,3 +58,119 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
+  - name: "publication"
+    label: "Publication" # Used in the UI
+    folder: "content/publication" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        required: false
+        widget: "datetime"
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: true
+      - label: "Authors"
+        name: "authors"
+        required: false
+        widget: "string"
+      - label: "Publication type"
+        name: "publication_types"
+        widget: "select"
+        options:
+        - { label: "Uncategorized", value: "0" }
+        - { label: "Conference proceedings", value: "2" }
+        - { label: "Journal", value: "3" }
+        - { label: "Work in Progress", value: "4" }
+        - { label: "Book", value: "5" }
+        - { label: "Book chapter", value: "6" }
+      - label: "Publication's name"
+        mame: "publication"
+        required: false
+        widget: "string"
+      - label: "Abstract"
+        name: "abstract"
+        required: false
+        widget: "text"
+      - label: "Featured image thumbnail"
+        name: "image_preview"
+        required: false
+        widget: "image"
+      - label: "Is this a selected publication?"
+        name: "selected"
+        widget: "boolean"
+        default: false
+      - label: "Related projects"
+        name: "projects"
+        required: false
+        widget: "relation"
+        collection: "project"
+        searchFields: "name"
+        valueField: "name"
+      - label: "URL Code"
+        name: "url_code"
+        required: false
+        widget: string
+      - label: "URL Dataset"
+        name: "url_dataset"
+        required: false
+        widget: string
+      - label: "URL PDF"
+        name: "url_pdf"
+        required: false
+        widget: string
+      - label: "URL Poster"
+        name: "url_poster"
+        required: false
+        widget: string
+      - label: "URL Preprint"
+        name: "url_preprint"
+        required: false
+        widget: string
+      - label: "URL Project"
+        name: "url_project"
+        required: false
+        widget: string
+      - label: "URL Slides"
+        name: "url_slides"
+        required: false
+        widget: string
+      - label: "URL Source"
+        name: "url_source"
+        required: false
+        widget: string
+      - label: "URL Video"
+        name: "url_video"
+        required: false
+        widget: string
+      - label: "Header image"
+        name: "header"
+        required: false
+        widget: object
+        fields:
+          - label: "Image"
+            name: "image"
+            required: false
+            widget:  "image"
+          - label: "Caption"
+            name: "caption"
+            required: false
+            widget: "string"
+          - label: "Preview"
+            name: "preview"
+            widget: "boolean"
+            default: true
+      - label: "Does the content use source code highlighting?"
+        name: "highlight"
+        widget: "boolean"
+        default: true
+      - label: "Does the content use math formatting?"
+        name: "highlight"
+        widget: "boolean"
+        default: false
