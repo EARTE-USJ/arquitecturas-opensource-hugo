@@ -111,8 +111,8 @@ collections:
         required: false
         widget: "relation"
         collection: "project"
-        searchFields: "name"
-        valueField: "name"
+        searchFields: "title"
+        valueField: "title"
       - label: "URL Code"
         name: "url_code"
         required: false
@@ -174,3 +174,18 @@ collections:
         name: "highlight"
         widget: "boolean"
         default: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - name: "project"
+    label: "Project" # Used in the UI
+    folder: "content/project" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
