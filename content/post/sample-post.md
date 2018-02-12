@@ -8,7 +8,7 @@ tags:
   - tag
 header:
   caption: Barcelona
-  image: /imags/uploads/pict0010.jpg
+  image: /imgs/uploads/pict0010.jpg
   preview: true
 ---
 This is a sample blog post which has been created from NetlifyCMS
