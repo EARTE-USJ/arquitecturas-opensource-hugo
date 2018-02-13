@@ -2,4 +2,4 @@
   HUGO_VERSION = "0.30.2"
 
 [context.build]
-  HUGO_VERSION = "0.35"
+  HUGO_VERSION = "0.30.2"
