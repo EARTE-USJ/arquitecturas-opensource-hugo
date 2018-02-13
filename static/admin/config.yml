@@ -106,13 +106,13 @@ collections:
         name: "selected"
         widget: "boolean"
         default: false
-      - label: "Related projects"
-        name: "projects"
-        required: false
-        widget: "relation"
-        collection: "project"
-        searchFields: "title"
-        valueField: "title"
+      # - label: "Related projects"
+      #   name: "projects"
+      #   required: false
+      #   widget: "relation"
+      #   collection: "project"
+      #   searchFields: "title"
+      #   valueField: "title"
       - label: "URL Code"
         name: "url_code"
         required: false
