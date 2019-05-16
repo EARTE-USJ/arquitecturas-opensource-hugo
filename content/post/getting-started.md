@@ -2,7 +2,7 @@
 date: 2016-04-20T00:00:00+02:00
 lastmod: 2017-09-03T00:00:00+02:00
 
-title: Getting started with the Academic framework for Hugo
+title: Getting started with the Academic framework for Hugo 2
 summary: "Create a beautifully simple personal or academic website in under 10 minutes."
 
 draft: false
